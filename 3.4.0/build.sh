@@ -3,7 +3,7 @@
 # Copyright © 2021 Pittsburgh Supercomputing Center.
 # All Rights Reserved.
 
-IMAGE=singularity-augustus-3.4.0.sif
+IMAGE=singularity-AUGUSTUS-3.4.0.sif
 DEFINITION=Singularity
 
 if [ -f $IMAGE ]; then
